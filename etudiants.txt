@@ -1,0 +1,11 @@
+A0001 M Lesmarie Remi B 2 H
+A0056 M Dupont Theo N V
+D0089 Mme Martin Julie B 4 V
+I0156 M Mommalier Victor B 3 V
+K0148 Mme Poncet Clara N V
+M0025 Mme Velut Lucile N H
+P0058 M Giscard Eric B 4 V
+R0666 M Premier Hades N V
+T0001 Mme Renault Megane B 7 H
+X0004 M Dubois Etienne B 5 V
+X0025 M Gates Bill N V
